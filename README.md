@@ -4,7 +4,7 @@
 Thomas Evans. Copyright © 2023. All Rights Reserved.
 
 ## Description
-Developed a weather application using Agile methodology, leveraging Python, Flask, and PySimpleGUI. The application features a user-friendly graphical interface, real time weather data and a separate microservice is implemented to collect weather data based on latitude and longitude coordinates.
+A weather retrieval application developed using the Agile methodology, leveraging Python, and PySimpleGUI. The application features a user-friendly graphical interface, real time weather data and a separate microservice is implemented to collect weather data based on latitude and longitude coordinates.
 
 ## How to run
 Start weatherApp.py and enter the name of the city in the search bar to retrieve weather information.
