@@ -1,7 +1,7 @@
 ## Python Weather App
 
 ## Created By:
-Thomas Evans. Copyright © 2023. All Rights Reserved.
+Thomas Evans
 
 ## Description
 A weather application developed using Agile methodology, leveraging Python and PySimpleGUI.
@@ -23,3 +23,5 @@ Example call: Program requesting data establishes a TCP connection and sends an 
 In order to RECEIVE data from windspeed.py, the requesting program must establish and maintain a TCP/IP connection and the requesting program must LISTEN for a response from windspeed.py. The message containing the windspeed and wind direction will be immediately sent after the REQUEST is made as an encoded message in the following format, 'windspeed, direction'.
 
 ![CS361 - Assignment 9 UML](https://github.com/Evanstho/CS361/assets/102569958/1f76e6c8-50a4-42c9-bbe4-8edb8a714007)
+
+Copyright © 2023. All Rights Reserved.
